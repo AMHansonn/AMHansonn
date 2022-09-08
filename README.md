@@ -3,8 +3,9 @@
 - 🌱 I’m currently a High School student. 
 - 💞️ I’m looking to collaborate on anything! I'm always seeking knowledge.
 - 📫 How to reach me {
-  twitter: AMHansonn
-  email: AMHanson_@outlook.com 
+  * twitter: AMHansonn
+  * email: AMHanson_@outlook.com 
+  * stack overflow: https://stackoverflow.com/users/19945746/anthony-hanson
 }
 
 <!---
