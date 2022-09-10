@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AMHansonn
-- 👀 I’m interested in computer science. Recently I have started to learn how to harness JavaScript and Python to create neural networks;; Keep posted to see some projects I have made with Neural Networks, whenever I finish them!
+- 👀 I’m interested in computer science. Recently I have started to learn how to harness JavaScript and Python to create neural networks.
 - 🌱 I’m currently a High School student. 
 - 💞️ I’m looking to collaborate on anything! I'm always seeking knowledge.
 - 📫 How to reach me {
