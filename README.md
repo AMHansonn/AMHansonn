@@ -17,5 +17,3 @@ Hi, I'm Anthony, and this is my Github Account. I am a highschool student who is
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="xcode-original.svg" width="30" height="30">
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="vscode-original.svg" width="30" height="30">
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="oracle-original.svg" width="30" height="30">
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="photoshop-line.svg" width="30" height="30">
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="linkedin-original.svg" width="30" height="30">
