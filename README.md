@@ -17,3 +17,10 @@ Hi, I'm Anthony, and this is my Github Account. I am a highschool student who is
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="xcode-original.svg" width="30" height="30">
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="vscode-original.svg" width="30" height="30">
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="oracle-original.svg" width="30" height="30">
+<br />
+
+#
+
+### Stats 
+
+![Anthony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AMHansonn&show_icons=true&theme=gruvbox)
