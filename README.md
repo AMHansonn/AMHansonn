@@ -5,31 +5,17 @@ Hi, I'm Anthony, and this is my Github Account. I am a highschool student who is
 ---
 
 ### Tools I use
-<!--
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-
-<i class="devicon-apple-original"></i>
-
-<i class="devicon-python-plain colored"></i>
-          
-<i class="devicon-css3-plain colored"></i>
-          
-<i class="devicon-github-original-wordmark"></i>
-          
-<i class="devicon-html5-plain colored"></i>
-          
-<i class="devicon-java-plain colored"></i>
-          
-<i class="devicon-linkedin-plain colored"></i>
-          
-<i class="devicon-markdown-original"></i>
-          
-<i class="devicon-photoshop-plain colored"></i>
-            
-<i class="devicon-wordpress-plain"></i>
-            
-<i class="devicon-xcode-plain colored"></i>
--->
-<!--          
-<img src="python.svg" width="30" height="30" class="icons">
--->
+<img src="python-plain.svg" width="30" height="30">
+<img src="css3-original.svg" width="30" height="30">
+<img src="html5-original.svg" width="30" height="30">
+<img src="github-original.svg" width="30" height="30">
+<img src="java-original.svg" width="30" height="30">
+<img src="kotlin-original.svg" width="30" height="30">
+<img src="markdown-original.svg" width="30" height="30">
+<img src="numpy-original.svg" width="30" height="30">
+<img src="swift-original.svg" width="30" height="30">
+<img src="xcode-original.svg" width="30" height="30">
+<img src="vscode-original.svg" width="30" height="30">
+<img src="oracle-original.svg" width="30" height="30">
+<img src="photoshop-line.svg" width="30" height="30">
+<img src="linkedin-original.svg" width="30" height="30">
