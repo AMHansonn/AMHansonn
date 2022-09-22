@@ -5,8 +5,9 @@ Hi, I'm Anthony, and this is my Github Account. I am a highschool student who is
 ---
 
 ### Tools I use
-<img src="python.svg" width="30" height="30">
-<img src="github.svg" width="30" height="30">
-<img src="html5.svg" width="30" height="30">
-<img src="css3-alt.svg" width="30" height="30">
-<img src="java.svg" width="30" height="30">
+<img src="python.svg" width="30" height="30" class="icons">
+<img src="github.svg" width="30" height="30" class="icons">
+<img src="html5.svg" width="30" height="30" class="icons">
+<img src="css3-alt.svg" width="30" height="30" class="icons">
+<img src="java.svg" width="30" height="30" class="icons">
+
