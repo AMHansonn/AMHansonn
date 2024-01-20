@@ -3,7 +3,7 @@
 
 I am a High School Student working to become a software engineer in the future.
 
-[Let's Connect!](href="linkedin.com/in/anthonymhanson")
+[Let's Connect!](https://linkedin.com/in/anthonymhanson)
 
 ## Tools I Use <!--Using Devicons-->
 
