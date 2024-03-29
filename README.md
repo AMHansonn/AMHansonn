@@ -3,6 +3,8 @@
 
 I am a High School Student working to become a software engineer in the future.
 
+I am currently working on [freeCodeCamp](freecodecamp.org) and [The Odin Project!](theodinproject.com)
+
 [Let's Connect!](https://linkedin.com/in/anthonymhanson)
 
 ## Tools I Use <!--Using Devicons-->
