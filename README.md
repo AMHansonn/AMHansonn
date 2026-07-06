@@ -1,7 +1,32 @@
-## AMHansonn
-### Student | (Computer) Scientist | Healthcare Professional | Aspiring Physician-Scientist
+## AMHansonn — Anthony "Alyx" Hanson, CPCT/A, RPhT
+### Undergraduate Student | Researcher | Healthcare Professional | Aspiring Physician-Scientist
 
-I am a College Student at East Carolina University working to become a doctor in the future. However, computer science is an incredibly interesting field, and having a working knowledge of it is incredibly helpful in any field. I am also working to become a researcher in the future, so learning languages like Python and R will be very helpful for me.  
+#### Building tools, analyzing data, and conducting research at the intersections of medicine, neuroscience, and computer science. 
 
-[Let's Connect!](https://linkedin.com/in/anthonymhanson)
+I am an undergraduate student at East Carolina University pursuing my degree(s) in psychology, neuroscience, and chemistry, building a strong foundation in the natural and behavioral sciences. My academic interests center on neuroscience, psychology, medicine, and translational research.
 
+I am currently expanding my skills in computer science, programming, and data analysis to build reproducible research workflows and leverage computational methods in scientific and clinical research. My goal is to integrate healthcare, scientific research, and technology to improve patient outcomes and advance our understanding of disease.
+
+📫 **Let's Connect:**  
+[LinkedIn](https://linkedin.com/in/anthonymhanson)
+
+### Interests
+- 🧠 Psychology & Neuroscience
+- ⚗️ Chemistry
+- 🩺 Medicine
+- 💊 Pharmacy & Pharmacology
+- 🔬 Biomedical Research
+- 💻 Computer Science
+- 📊 Data Science & Analytics
+- 🤖 Scientific Computing
+
+### Currently Learning
+- 🐍 Python
+- 💾 C
+- 📊 SQL
+
+<!--TODO: ### Skills-->
+<!-- #### Sections; Programming, Research, Tools, etc-->
+<!-- Programming -> Python, HTML/CSS, C, C++/Rust, etc. -->
+<!-- Research -> Experimental design, statistical analysis, literature review, etc. -->
+<!-- Tools -> 💻 Excel, Git, Jupyter, etc.  -->
