@@ -3,7 +3,7 @@
 
 #### Building tools, analyzing data, and conducting research at the intersections of medicine, neuroscience, and computer science. 
 
-I am an undergraduate student at East Carolina University pursuing my degree(s) in psychology, neuroscience, and chemistry, building a strong foundation in the natural and behavioral sciences. My academic interests center on neuroscience, psychology, medicine, and translational research.
+I am an undergraduate student at East Carolina University pursuing my degree(s) in psychology and neuroscience, building a strong foundation in the natural and behavioral sciences. My academic interests center on neuroscience, psychology, medicine, and translational research.
 
 I am currently expanding my skills in computer science, programming, and data analysis to build reproducible research workflows and leverage computational methods in scientific and clinical research. My goal is to integrate healthcare, scientific research, and technology to improve patient outcomes and advance our understanding of disease.
 
