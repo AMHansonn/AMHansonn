@@ -1,4 +1,4 @@
-## AMHansonn — Anthony "Alyx" Hanson, CPCT/A, RPhT
+## AMHansonn — Anthony Hanson, CPCT/A, RPhT
 ### Undergraduate Student | Researcher | Healthcare Professional | Aspiring Physician-Scientist
 
 #### Building tools, analyzing data, and conducting research at the intersections of medicine, neuroscience, and computer science. 
