@@ -1,7 +1,7 @@
 ## AMHansonn — Anthony Hanson, CPCT/A, RPhT
-### Undergraduate Student | Researcher | Healthcare Professional | Aspiring Physician-Scientist
+### Undergraduate Student | Researcher | Healthcare Professional | Aspiring Clinician-Scientist
 
-#### Building tools, analyzing data, and conducting research at the intersections of medicine, neuroscience, and computer science. 
+#### Building tools, analyzing data, and conducting research at the intersections of medicine, neuroscience, chemistry, and computer science. 
 
 I am an undergraduate student at East Carolina University pursuing my degree(s) in psychology and neuroscience, building a strong foundation in the natural and behavioral sciences. My academic interests center on neuroscience, psychology, medicine, and translational research.
 
